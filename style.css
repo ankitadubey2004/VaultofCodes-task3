@@ -60,7 +60,6 @@ section {
     width: 100%;
     height: 100%;
     object-fit: cover;
-    /* margin-left: -140px; */
 }
 
 .text-content {
@@ -112,7 +111,6 @@ h2 {
     transition: .5s;
     margin-left: 40px;
     margin-top: -48px;
-
 }
 
 .input-box input {
@@ -145,9 +143,9 @@ h2 {
     justify-content:space-evenly;
     font-size: 1rem; /* Increased font size */
     color: #000000;
-margin-top: 10px;
-margin-bottom: 10px;
-margin-left: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 5px;
 }
 
 button {
@@ -175,7 +173,6 @@ button:hover {
     text-align: center;
     margin-top: 20px;
     margin-left: 50px;
-
 }
 
 .register-link p a {
